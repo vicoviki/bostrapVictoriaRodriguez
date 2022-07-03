@@ -42,7 +42,9 @@ h1,h2{
 .btn-color{
 	border-radius: 50px;
 	background-color: #054A7B;
-	color: white;	
+	color: white;
+	width: 90%;	
+	justify-content: center;
 }
 .btn-color:hover{
 	color: #43F1E7;
